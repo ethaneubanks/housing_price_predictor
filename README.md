@@ -1,1 +1,8 @@
-# housing_price_predictor
+## This project predicts housing price per square foot using real home sales data from King County, Washington. I’m using simple tabular features like square footage, bedrooms, bathrooms, and year built to model how efficiently space is priced.
+
+## Author: Ethan Thomas Eubanks
+
+### Example Input and Output
+| Input | Output |
+|-------|--------|
+| ![Input](input_example.png) | ![Output](output_example.png) |
