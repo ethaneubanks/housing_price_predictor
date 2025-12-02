@@ -5,7 +5,7 @@
 ## Author: Ethan Thomas Eubanks
 [GitHub Repository]([https://github.com/ethaneubanks/housing_price_predictor](https://github.com/ethaneubanks)
 
-Link to poster: <img width="2500" height="1875" alt="AI_in_BE_Poster" src="https://github.com/user-attachments/assets/19f986a3-bd22-40c7-a4d2-02fd0f923ba8" />
+Link to poster: <img width="2500" height="1875" alt="AI_in_BE_Poster" src="https://github.com/user-attachments/assets/f4969f09-d902-4be7-9435-84175cc00f91" />
 
 Link to report: https://uflorida-my.sharepoint.com/personal/ethaneubanks_ufl_edu/Documents/AI_in_BE_Final_Report.pdf 
 
