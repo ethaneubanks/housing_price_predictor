@@ -5,6 +5,9 @@
 ## Author: Ethan Thomas Eubanks
 [GitHub Repository]([https://github.com/ethaneubanks/housing_price_predictor](https://github.com/ethaneubanks)
 
+Link to poster: ![AI_in_BE_Poster](https://github.com/user-attachments/assets/0c353e5d-277e-4d06-a2ad-2d43485f4bb6)
+Link to report: https://uflorida-my.sharepoint.com/personal/ethaneubanks_ufl_edu/Documents/AI_in_BE_Final_Report.pdf 
+
 ### Example Input and Output
 | Input | Output |
 |-------|--------|
